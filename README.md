@@ -11,8 +11,8 @@ Simply open the Jupyter notebooks you are interested in:
 ## Installation
 First, you will need to install git, if you don't have it already.
 Next, clone this repository by opening a terminal and typing the following commands:
-$ cd $HOME  # or any other development directory you prefer
-$ git clone https://github.com/AISCIENCES/dlf-python.git
-$ cd dlf-python
+$ cd $HOME  # or any other development directory you prefer 
+$ git clone https://github.com/AISCIENCES/dlf-python.git 
+$ cd dlf-python 
 If you do not want to install git, you can instead download master.zip, unzip it, rename the resulting directory to dlf-python and move it to your development directory.
 
